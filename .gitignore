@@ -1,1 +1,4 @@
 /target
+credentials.toml
+mastodon-data.toml
+.DS_Store
